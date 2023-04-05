@@ -1,0 +1,1 @@
+I accidentally implemented the first new feature (creating multiple playlists) when creating my schema by making playlist id the primary key and having user id be a foreign key. The second feature (multiple account types) will be implemented by simply adding an attribute for account type.
